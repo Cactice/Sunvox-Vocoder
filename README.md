@@ -6,7 +6,7 @@ Autotune developed for Sunvox using logic Gates and Pitch Shifters
 ## Comparison
 Compares two sounds and outputs 2 bit data of which is louder.
 | Right        | Left           | Explanation  |
-| ------------- |:-------------:| -----:|
+| :-------------: |:-------------:| :-----:|
 | True     | True | This should not happen |
 | True     | False      |  Right is Bigger |
 | False | True      |    Left is Bigger |
