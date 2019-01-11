@@ -18,9 +18,10 @@ There is an A/D converter which can detect if only one of R or L channel is abov
 Issue with the current model: if they are both the same value than this part will be stuck in a loop of changing the threshold in which both R & L would be 0.
 #### Update-threshold (4bit)
 If R XNOR L than it updates the threshold so the two would be in a XOR situation.
-##### Latch
-##### Half Adder
-##### A/D convert
+##### Components:
+- Latch
+- Half Adder
+- A/D convert
 
 ## Shifter
 
